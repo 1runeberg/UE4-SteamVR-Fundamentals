@@ -1,0 +1,905 @@
+"E:/DEMO/Meetup/SteamVR_01/SteamVR_01.uproject" 1
+"../../../Engine/Plugins/2D/Paper2D/Paper2D.uplugin" 2
+"../../../Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin" 3
+"../../../Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin" 4
+"../../../Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin" 5
+"../../../Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin" 6
+"../../../Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin" 7
+"../../../Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin" 8
+"../../../Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin" 9
+"../../../Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin" 10
+"../../../Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin" 11
+"../../../Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin" 12
+"../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin" 13
+"../../../Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin" 14
+"../../../Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin" 15
+"../../../Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin" 16
+"../../../Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin" 17
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin" 18
+"../../../Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin" 19
+"../../../Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin" 20
+"../../../Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin" 21
+"../../../Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin" 22
+"../../../Engine/Plugins/Experimental/CodeView/CodeView.uplugin" 23
+"../../../Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin" 24
+"../../../Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin" 25
+"../../../Engine/Plugins/Experimental/OSVR/OSVR.uplugin" 26
+"../../../Engine/Plugins/Experimental/Phya/Phya.uplugin" 27
+"../../../Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin" 28
+"../../../Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin" 29
+"../../../Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin" 30
+"../../../Engine/Plugins/Experimental/StructBox/StructBox.uplugin" 31
+"../../../Engine/Plugins/Marketplace/Substance/Substance.uplugin" 32
+"../../../Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin" 33
+"../../../Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin" 34
+"../../../Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin" 35
+"../../../Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin" 36
+"../../../Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin" 37
+"../../../Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin" 38
+"../../../Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin" 39
+"../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin" 40
+"../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin" 41
+"../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin" 42
+"../../../Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin" 43
+"../../../Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin" 44
+"../../../Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin" 45
+"../../../Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin" 46
+"../../../Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin" 47
+"../../../Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin" 48
+"../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin" 49
+"../../../Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin" 50
+"../../../Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin" 51
+"../../../Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin" 52
+"../../../Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin" 53
+"../../../Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin" 54
+"../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin" 55
+"../../../Engine/Plugins/Runtime/GearVR/GearVR.uplugin" 56
+"../../../Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin" 57
+"../../../Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin" 58
+"../../../Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin" 59
+"../../../Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin" 60
+"../../../Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin" 61
+"../../../Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin" 62
+"../../../Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin" 63
+"../../../Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin" 64
+"../../../Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin" 65
+"../../../Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin" 66
+"../../../Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin" 67
+"../../../Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin" 68
+"../../../Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin" 69
+"../../../Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin" 70
+"../../../Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin" 71
+"../../../Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin" 72
+"../../../Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin" 73
+"../../../Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin" 74
+"../../../Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin" 75
+"../../../Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin" 76
+"../../../Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin" 77
+"..\..\..\Engine\Content\Internationalization\icudt53l\cnvalias.icu" 78
+"..\..\..\Engine\Content\Internationalization\icudt53l\res_index.res" 79
+"..\..\..\Engine\Content\Internationalization\icudt53l\en_US_POSIX.res" 80
+"..\..\..\Engine\Content\Internationalization\icudt53l\pool.res" 81
+"..\..\..\Engine\Content\Internationalization\icudt53l\en_US.res" 82
+"..\..\..\Engine\Content\Internationalization\icudt53l\en.res" 83
+"..\..\..\Engine\Content\Internationalization\icudt53l\root.res" 84
+"..\..\..\Engine\Content\Internationalization\icudt53l\lang\en_GB.res" 85
+"..\..\..\Engine\Content\Internationalization\icudt53l\lang\pool.res" 86
+"..\..\..\Engine\Content\Internationalization\icudt53l\lang\en.res" 87
+"..\..\..\Engine\Content\Internationalization\icudt53l\lang\root.res" 88
+"..\..\..\Engine\Content\Internationalization\icudt53l\region\en_GB.res" 89
+"..\..\..\Engine\Content\Internationalization\icudt53l\region\pool.res" 90
+"..\..\..\Engine\Content\Internationalization\icudt53l\region\en.res" 91
+"..\..\..\Engine\Content\Internationalization\icudt53l\region\root.res" 92
+"..\..\..\Engine\Content\Internationalization\icudt53l\en_GB.res" 93
+"..\..\..\Engine\Content\Internationalization\icudt53l\en_001.res" 94
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/4.12/Saved/Config/Windows/Manifest.ini" 95
+"../../../Engine/Config/Base.ini" 96
+"../../../Engine/Config/BaseEngine.ini" 97
+"E:/DEMO/Meetup/SteamVR_01/Config/DefaultEngine.ini" 98
+"../../../Engine/Config/Windows/WindowsEngine.ini" 99
+"E:/DEMO/Meetup/SteamVR_01/Saved/Config/Windows/Engine.ini" 100
+"../../../../../../DEMO/Meetup/SteamVR_01/Intermediate/Config/CoalescedSourceConfigs/Engine.ini" 101
+"../../../Engine/Config/BaseGame.ini" 102
+"E:/DEMO/Meetup/SteamVR_01/Config/DefaultGame.ini" 103
+"E:/DEMO/Meetup/SteamVR_01/Saved/Config/Windows/Game.ini" 104
+"../../../../../../DEMO/Meetup/SteamVR_01/Intermediate/Config/CoalescedSourceConfigs/Game.ini" 105
+"../../../Engine/Config/BaseInput.ini" 106
+"E:/DEMO/Meetup/SteamVR_01/Saved/Config/Windows/Input.ini" 107
+"../../../../../../DEMO/Meetup/SteamVR_01/Intermediate/Config/CoalescedSourceConfigs/Input.ini" 108
+"../../../Engine/Config/BaseEditor.ini" 109
+"E:/DEMO/Meetup/SteamVR_01/Config/DefaultEditor.ini" 110
+"E:/DEMO/Meetup/SteamVR_01/Saved/Config/Windows/Editor.ini" 111
+"../../../../../../DEMO/Meetup/SteamVR_01/Intermediate/Config/CoalescedSourceConfigs/Editor.ini" 112
+"../../../Engine/Config/BaseEditorPerProjectUserSettings.ini" 113
+"E:/DEMO/Meetup/SteamVR_01/Saved/Config/Windows/EditorPerProjectUserSettings.ini" 114
+"../../../../../../DEMO/Meetup/SteamVR_01/Intermediate/Config/CoalescedSourceConfigs/EditorPerProjectUserSettings.ini" 115
+"../../../Engine/Config/BaseEditorSettings.ini" 116
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/4.12/Saved/Config/Windows/EditorSettings.ini" 117
+"../../../../../../DEMO/Meetup/SteamVR_01/Intermediate/Config/CoalescedSourceConfigs/EditorSettings.ini" 118
+"../../../Engine/Config/BaseEditorLayout.ini" 119
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/4.12/Saved/Config/Windows/EditorLayout.ini" 120
+"../../../../../../DEMO/Meetup/SteamVR_01/Intermediate/Config/CoalescedSourceConfigs/EditorLayout.ini" 121
+"../../../Engine/Config/BaseEditorKeyBindings.ini" 122
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/4.12/Saved/Config/Windows/EditorKeyBindings.ini" 123
+"../../../../../../DEMO/Meetup/SteamVR_01/Intermediate/Config/CoalescedSourceConfigs/EditorKeyBindings.ini" 124
+"../../../Engine/Config/BaseCompat.ini" 125
+"E:/DEMO/Meetup/SteamVR_01/Saved/Config/Windows/Compat.ini" 126
+"../../../../../../DEMO/Meetup/SteamVR_01/Intermediate/Config/CoalescedSourceConfigs/Compat.ini" 127
+"../../../Engine/Config/BaseLightmass.ini" 128
+"E:/DEMO/Meetup/SteamVR_01/Saved/Config/Windows/Lightmass.ini" 129
+"../../../../../../DEMO/Meetup/SteamVR_01/Intermediate/Config/CoalescedSourceConfigs/Lightmass.ini" 130
+"../../../Engine/Config/BaseScalability.ini" 131
+"E:/DEMO/Meetup/SteamVR_01/Saved/Config/Windows/Scalability.ini" 132
+"../../../../../../DEMO/Meetup/SteamVR_01/Intermediate/Config/CoalescedSourceConfigs/Scalability.ini" 133
+"../../../Engine/Config/BaseHardware.ini" 134
+"E:/DEMO/Meetup/SteamVR_01/Saved/Config/Windows/Hardware.ini" 135
+"../../../../../../DEMO/Meetup/SteamVR_01/Intermediate/Config/CoalescedSourceConfigs/Hardware.ini" 136
+"E:/DEMO/Meetup/SteamVR_01/Saved/Config/Windows/GameUserSettings.ini" 137
+"../../../../../../DEMO/Meetup/SteamVR_01/Intermediate/Config/CoalescedSourceConfigs/GameUserSettings.ini" 138
+"../../../Engine/Config/BaseDeviceProfiles.ini" 139
+"E:/DEMO/Meetup/SteamVR_01/Saved/Config/Windows/DeviceProfiles.ini" 140
+"../../../../../../DEMO/Meetup/SteamVR_01/Intermediate/Config/CoalescedSourceConfigs/DeviceProfiles.ini" 141
+"../../../Engine/Config/ConsoleVariables.ini" 142
+"..\..\..\Engine\Content\Internationalization\icudt53l\ar.res" 143
+"..\..\..\Engine\Content\Internationalization\icudt53l\lang\ar.res" 144
+"..\..\..\Engine\Content\Internationalization\icudt53l\es.res" 145
+"..\..\..\Engine\Content\Internationalization\icudt53l\lang\es.res" 146
+"..\..\..\Engine\Content\Internationalization\icudt53l\ja.res" 147
+"..\..\..\Engine\Content\Internationalization\icudt53l\lang\ja.res" 148
+"..\..\..\Engine\Content\Internationalization\icudt53l\ko.res" 149
+"..\..\..\Engine\Content\Internationalization\icudt53l\lang\ko.res" 150
+"..\..\..\Engine\Content\Internationalization\icudt53l\pt_BR.res" 151
+"..\..\..\Engine\Content\Internationalization\icudt53l\pt.res" 152
+"..\..\..\Engine\Content\Internationalization\icudt53l\lang\pt.res" 153
+"..\..\..\Engine\Content\Internationalization\icudt53l\region\pt.res" 154
+"..\..\..\Engine\Content\Internationalization\icudt53l\zh_CN.res" 155
+"..\..\..\Engine\Content\Internationalization\icudt53l\zh_Hans_CN.res" 156
+"..\..\..\Engine\Content\Internationalization\icudt53l\zh_Hans.res" 157
+"..\..\..\Engine\Content\Internationalization\icudt53l\zh.res" 158
+"..\..\..\Engine\Content\Internationalization\icudt53l\lang\zh_CN.res" 159
+"..\..\..\Engine\Content\Internationalization\icudt53l\lang\zh_Hans_CN.res" 160
+"..\..\..\Engine\Content\Internationalization\icudt53l\lang\zh_Hans.res" 161
+"..\..\..\Engine\Content\Internationalization\icudt53l\lang\zh.res" 162
+"..\..\..\Engine\Content\Internationalization\icudt53l\region\zh_CN.res" 163
+"..\..\..\Engine\Content\Internationalization\icudt53l\region\zh_Hans_CN.res" 164
+"..\..\..\Engine\Content\Internationalization\icudt53l\region\zh_Hans.res" 165
+"..\..\..\Engine\Content\Internationalization\icudt53l\region\zh.res" 166
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Content/Localization/Editor/en/Editor.locres" 167
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Content/Localization/EditorTutorials/en/EditorTutorials.locres" 168
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Content/Localization/Keywords/en/Keywords.locres" 169
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Content/Localization/Category/en/Category.locres" 170
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Content/Localization/ToolTips/en/ToolTips.locres" 171
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Content/Localization/PropertyNames/en/PropertyNames.locres" 172
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Content/Localization/Engine/en/Engine.locres" 173
+"../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf" 174
+"../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf" 175
+"../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf" 176
+"../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf" 177
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/VectorFieldVisualizationVertexFactory.usf" 178
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/VertexFactoryCommon.usf" 179
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/Common.usf" 180
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/MetalCommon.usf" 181
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/VulkanCommon.usf" 182
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/ShaderVersion.usf" 183
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/CommonViewUniformBuffer.usf" 184
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/InstancedStereo.usf" 185
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/Definitions.usf" 186
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/Random.usf" 187
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSpriteVertexFactory.usf" 188
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleVertexFactoryCommon.usf" 189
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleGPUSpriteVertexFactory.usf" 190
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleBeamTrailVertexFactory.usf" 191
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/MeshParticleVertexFactory.usf" 192
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/LocalVertexFactory.usf" 193
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/LocalVertexFactoryCommon.usf" 194
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/GpuSkinCommon.usf" 195
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/GpuSkinVertexFactory.usf" 196
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/LandscapeVertexFactory.usf" 197
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/SlateElementPixelShader.usf" 198
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/GammaCorrectionCommon.usf" 199
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/SlateShaderCommon.usf" 200
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/MaterialTemplate.usf" 201
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/DepthOfFieldCommon.usf" 202
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/CircleDOFCommon.usf" 203
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/GlobalDistanceFieldShared.usf" 204
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/SpeedTreeCommon.usf" 205
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/MinMaterialTexCoords.usf" 206
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/AtmosphereCommon.usf" 207
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PaniniProjection.usf" 208
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/EyeAdaptationCommon.usf" 209
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessCommon.usf" 210
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredShadingCommon.usf" 211
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/LightAccumulator.usf" 212
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/SlateVertexShader.usf" 213
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/VectorFieldCompositeShaders.usf" 214
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/UpdateTextureShaders.usf" 215
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementColorChannelMaskPixelShader.usf" 216
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementPixelShader.usf" 217
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/ColorUtils.usf" 218
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/IESLightProfilesCommon.usf" 219
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementHitProxyPixelShader.usf" 220
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementVertexShader.usf" 221
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/ScreenVertexShader.usf" 222
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/ScreenPixelShader.usf" 223
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSortKeyGen.usf" 224
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleBoundsShader.usf" 225
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSimVisualizeShader.usf" 226
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleInjectionShader.usf" 227
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSimulationShader.usf" 228
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleCurveInjectionShader.usf" 229
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/RadixSortShaders.usf" 230
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/RecomputeTangentsPerVertexPass.usf" 231
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/RecomputeTangentsCommon.usf" 232
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/RecomputeTangentsPerTrianglePass.usf" 233
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/FastMath.usf" 234
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/GpuSkinCacheComputeShader.usf" 235
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/NullPixelShader.usf" 236
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/LandscapeGrassWeight.usf" 237
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/VertexDensityShader.usf" 238
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/VelocityShader.usf" 239
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/VelocityCommon.usf" 240
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/Tessellation.usf" 241
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/FlatTessellation.usf" 242
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PNTriangles.usf" 243
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/TranslucentLightingShaders.usf" 244
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/SHCommon.usf" 245
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowProjectionCommon.usf" 246
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/CubemapCommon.usf" 247
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/TranslucentLightInjectionShaders.usf" 248
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/DynamicLightingCommon.usf" 249
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/LightFunctionCommon.usf" 250
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/TranslucentShadowDepthShaders.usf" 251
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowDepthCommon.usf" 252
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/TiledDeferredLightShaders.usf" 253
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredLightingCommon.usf" 254
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/BRDF.usf" 255
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/MonteCarlo.usf" 256
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/ShadingModels.usf" 257
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/SurfelTree.usf" 258
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldLightingShared.usf" 259
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/SurfelMaterialShared.usf" 260
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldAOShared.usf" 261
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowProjectionPixelShader.usf" 262
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowFilteringCommon.usf" 263
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowProjectionVertexShader.usf" 264
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowDepthPixelShader.usf" 265
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/LPVWriteVplCommon.usf" 266
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/LPVWriteCommon.usf" 267
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/LPVCommon.usf" 268
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowDepthVertexShader.usf" 269
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/QuadComplexityAccumulatePixelShader.usf" 270
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/QuadOverdraw.usf" 271
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/DebugViewModeCommon.usf" 272
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/ShaderComplexityAccumulatePixelShader.usf" 273
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/HZBOcclusion.usf" 274
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/OcclusionQueryVertexShader.usf" 275
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/HitProxyPixelShader.usf" 276
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/HitProxyVertexShader.usf" 277
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/ReflectionEnvironmentShaders.usf" 278
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/ReflectionEnvironmentShared.usf" 279
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/SkyLightingShared.usf" 280
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/ReflectionEnvironmentComputeShaders.usf" 281
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PrimitiveDistanceAccuracyPixelShader.usf" 282
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PreCullTriangles.usf" 283
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/VisualizeTexture.usf" 284
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/VisualizeShadingModels.usf" 285
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHistogramCommon.usf" 286
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/ScreenSpaceReflections.usf" 287
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/ScreenSpaceRayCast.usf" 288
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/FilterVertexShader.usf" 289
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/FilterPixelShader.usf" 290
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessVisualizeHDR.usf" 291
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/TonemapCommon.usf" 292
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/ACES.usf" 293
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/MiniFontCommon.usf" 294
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/ShaderComplexityApplyPixelShader.usf" 295
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessVisualizeBuffer.usf" 296
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessUpscale.usf" 297
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTonemap.usf" 298
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTestImage.usf" 299
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTemporalAA.usf" 300
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTemporalCommon.usf" 301
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessSubsurface.usf" 302
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/SeparableSSS.usf" 303
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessSelectionOutline.usf" 304
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessNoiseBlur.usf" 305
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessMotionBlur.usf" 306
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessVelocityFlatten.usf" 307
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessMobile.usf" 308
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessMaterialShaders.usf" 309
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessLensFlares.usf" 310
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessLensBlur.usf" 311
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessBloom.usf" 312
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHMD.usf" 313
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHistogramReduce.usf" 314
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHistogram.usf" 315
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHierarchical.usf" 316
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessGBufferHints.usf" 317
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessEyeAdaptation.usf" 318
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessDownsample.usf" 319
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessDOF.usf" 320
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessCompositeEditorPrimitives.usf" 321
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessCombineLUTs.usf" 322
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessCircleDOF.usf" 323
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessBusyWait.usf" 324
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessPassThrough.usf" 325
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessBokehDOF.usf" 326
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/SeparateTranslucency.usf" 327
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessVisualizeDOF.usf" 328
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/FXAAShader.usf" 329
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/Fxaa3_11.usf" 330
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PlanarReflectionShaders.usf" 331
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PlanarReflectionShared.usf" 332
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/MeshTexCoordSizeAccuracyPixelShader.usf" 333
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/MaterialTexCoordScalesPixelShader.usf" 334
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/LightShaftShader.usf" 335
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/StationaryLightOverlapShaders.usf" 336
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredLightPixelShaders.usf" 337
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredLightVertexShaders.usf" 338
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/LPVVisualise.usf" 339
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/LPVGeometryVolumeCommon.usf" 340
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/LPVDirectLightInject.usf" 341
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/LPVPropagate.usf" 342
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/LPVPacking.usf" 343
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/LPVBuildGeometryVolume.usf" 344
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/LpvDirectionalOcclusion.usf" 345
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/LPVInject_AccumulateVplLists.usf" 346
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/LPVInject_GenerateVplLists.usf" 347
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/LPVClearLists.usf" 348
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/LPVClear.usf" 349
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/LightMapDensityShader.usf" 350
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/LightFunctionPixelShader.usf" 351
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/LightFunctionVertexShader.usf" 352
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/HeightfieldLighting.usf" 353
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldShadowingShared.usf" 354
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/HeightfieldLightingShared.usf" 355
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/HdrCustomResolveShaders.usf" 356
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/GPUBenchmark.usf" 357
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/GlobalDistanceField.usf" 358
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/GammaCorrection.usf" 359
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassForForwardShadingPixelShader.usf" 360
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassForForwardShadingCommon.usf" 361
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/LightmapCommon.usf" 362
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassForForwardShadingVertexShader.usf" 363
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/HeightFogCommon.usf" 364
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/HeightFogPixelShader.usf" 365
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/HeightFogVertexShader.usf" 366
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/DistortAccumulatePS.usf" 367
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/DistortAccumulateVS.usf" 368
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/DistortApplyScreenPS.usf" 369
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldSurfaceCacheLighting.usf" 370
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/SkyLighting.usf" 371
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldSurfaceCacheLightingCompute.usf" 372
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldSpecularOcclusion.usf" 373
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldShadowing.usf" 374
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldScreenGridLighting.usf" 375
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldLightingPost.usf" 376
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldGlobalIllumination.usf" 377
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/DepthOnlyPixelShader.usf" 378
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/DepthOnlyVertexShader.usf" 379
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PositionOnlyDepthVertexShader.usf" 380
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/DownsampleDepthPixelShader.usf" 381
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/DitheredTransitionStencil.usf" 382
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredDecal.usf" 383
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/MissingShaderPixelShader.usf" 384
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/DebugviewModeVertexShader.usf" 385
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/EvaluateSurfelMaterial.usf" 386
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/ConvertToUniformMesh.usf" 387
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessLpvIndirect.usf" 388
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/LPVFinalPass.usf" 389
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessAmbientOcclusion.usf" 390
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessAmbient.usf" 391
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/CapsuleShadowShaders.usf" 392
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassPixelShader.usf" 393
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassCommon.usf" 394
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/ForEachLight.usf" 395
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassVertexShader.usf" 396
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassVertexCommon.usf" 397
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassTessellationShaders.usf" 398
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/AtmospherePrecomputeInscatter.usf" 399
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/AtmospherePrecomputeCommon.usf" 400
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/AtmospherePrecompute.usf" 401
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/AtmosphericFogShader.usf" 402
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/ResolveVertexShader.usf" 403
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/ResolvePixelShader.usf" 404
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/OneColorShader.usf" 405
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/MediaShaders.usf" 406
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/ClearReplacementShaders.usf" 407
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementTexture2DPreviewPixelShader.usf" 408
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementNormalMapPixelShader.usf" 409
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/meshpaintdilatepixelshader.usf" 410
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/meshpaintdilatevertexshader.usf" 411
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/MeshPaintPixelShader.usf" 412
+"E:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/../../../Engine/Shaders/MeshPaintVertexShader.usf" 413
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/4.12/DerivedDataCache/Boot.ddc" 414
+"../../../Engine/DerivedDataCache/Compressed.ddp" 415
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 416
+"../../../Engine/Config/Android/AndroidEngine.ini" 417
+"../../../Engine/Config/IOS/IOSEngine.ini" 418
+"../../../Engine/Config/Linux/LinuxEngine.ini" 419
+"E:/DEMO/Meetup/SteamVR_01/Saved/Config/Windows/GameplayTags.ini" 420
+"../../../../../../DEMO/Meetup/SteamVR_01/Intermediate/Config/CoalescedSourceConfigs/GameplayTags.ini" 421
+"../../../Engine/Content/EngineResources/AICON-Red.uasset" 422
+"../../../Engine/Content/EngineResources/AICON-Green.uasset" 423
+"E:/DEMO/Meetup/SteamVR_01/Saved/Config/Windows/TemplateDefs.ini" 424
+"../../../../../../DEMO/Meetup/SteamVR_01/Intermediate/Config/CoalescedSourceConfigs/TemplateDefs.ini" 425
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 426
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 427
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 428
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 429
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 430
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 431
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 432
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 433
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 434
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 435
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 436
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 437
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 438
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 439
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 440
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 441
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 442
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 443
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 444
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 445
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 446
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 447
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 448
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 449
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 450
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 451
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 452
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 453
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 454
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 455
+"..\..\..\Engine\Content\Internationalization\icudt53l\numberingSystems.res" 456
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\supplementalData.res" 457
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\pool.res" 458
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\en_GB.res" 459
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\en_001.res" 460
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\en.res" 461
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\root.res" 462
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 463
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 464
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 465
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 466
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 467
+"../../../Engine/Content/EngineResources/Black.uasset" 468
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 469
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 470
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 471
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 472
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 473
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 474
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 475
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 476
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 477
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 478
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 479
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 480
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 481
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 482
+"../../../Engine/Content/EngineSounds/Master.uasset" 483
+"../../../Engine/Content/EngineSounds/Music.uasset" 484
+"../../../Engine/Content/EngineSounds/SFX.uasset" 485
+"../../../Engine/Content/EngineSounds/Normal_Attack.uasset" 486
+"../../../Engine/Content/EngineSounds/Special_Attack_PSM.uasset" 487
+"../../../Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset" 488
+"../../../Engine/Content/EngineSounds/Voice.uasset" 489
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 490
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 491
+"../../../Engine/Content/EngineTireTypes/DefaultTireType.uasset" 492
+"../../../../../../DEMO/Meetup/SteamVR_01/Intermediate/AssetRegistryCache/e8c2d44a.bin" 493
+"../../../../../../DEMO/Meetup/SteamVR_01/Intermediate/AssetRegistryCache/2657c409.bin" 494
+"../../../../../../DEMO/Meetup/SteamVR_01/Intermediate/AssetRegistryCache/aff1c699.bin" 495
+"../../../../../../DEMO/Meetup/SteamVR_01/Intermediate/AssetRegistryCache/866581fd.bin" 496
+"../../../../../../DEMO/Meetup/SteamVR_01/Intermediate/AssetRegistryCache/266574c4.bin" 497
+"../../../../../../DEMO/Meetup/SteamVR_01/Intermediate/AssetRegistryCache/8c0e1344.bin" 498
+"../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf" 499
+"../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf" 500
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf" 501
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-Black.ttf" 502
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf" 503
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf" 504
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 505
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 506
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 507
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 508
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 509
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 510
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 511
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 512
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\ucadata.icu" 513
+"..\..\..\Engine\Content\Internationalization\icudt53l\nfc.nrm" 514
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\en.res" 515
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\root.res" 516
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 517
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 518
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 519
+"../../../Engine/Content/VREditor/TransformGizmo/TranslationHandle.uasset" 520
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 521
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandle.uasset" 522
+"../../../Engine/Content/VREditor/TransformGizmo/StretchingHandle.uasset" 523
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 524
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 525
+"../../../Engine/Content/VREditor/TransformGizmo/UniformScaleHandle.uasset" 526
+"../../../Engine/Content/VREditor/Fonts/VRTextMaterial.uasset" 527
+"../../../Engine/Content/VREditor/Fonts/VRText_RobotoLarge.uasset" 528
+"../../../Engine/Content/VREditor/FloatingText/LineSegmentCylinder.uasset" 529
+"../../../Engine/Content/VREditor/FloatingText/LineMaterial.uasset" 530
+"../../../Engine/Content/VREditor/FloatingText/JointSphere.uasset" 531
+"../../../Engine/Content/VREditor/Fonts/TranslucentVRTextMaterial.uasset" 532
+"../../../Engine/Content/VREditor/UI/SM_ContentWindow_01.uasset" 533
+"../../../Engine/Content/VREditor/UI/M_ContentWindow.uasset" 534
+"../../../Engine/Content/VREditor/Devices/Vive/UE4_Logo.uasset" 535
+"../../../Engine/Content/VREditor/UI/SelectionBarMesh.uasset" 536
+"../../../Engine/Content/VREditor/UI/CloseButtonMesh.uasset" 537
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 538
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 539
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 540
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 541
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 542
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 543
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 544
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 545
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 546
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 547
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 548
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/4.12/Saved/Config/Windows/SourceControlSettings.ini" 549
+"../../../../../../DEMO/Meetup/SteamVR_01/Intermediate/Config/CoalescedSourceConfigs/SourceControlSettings.ini" 550
+"E:/DEMO/Meetup/SteamVR_01/Saved/Config/Windows/SourceControlSettings.ini" 551
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 552
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 553
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 554
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 555
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 556
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 557
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 558
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 559
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 560
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 561
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 562
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 563
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 564
+"E:/DEMO/Meetup/SteamVR_01/Saved/Config/Windows/InternationalizationExport.ini" 565
+"../../../../../../DEMO/Meetup/SteamVR_01/Intermediate/Config/CoalescedSourceConfigs/InternationalizationExport.ini" 566
+"E:/DEMO/Meetup/SteamVR_01/Saved/Config/Windows/TranslationPickerSettings.ini" 567
+"../../../../../../DEMO/Meetup/SteamVR_01/Intermediate/Config/CoalescedSourceConfigs/TranslationPickerSettings.ini" 568
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 569
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 570
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 571
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 572
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 573
+"../../../Engine/Content/BasicShapes/Cube.uasset" 574
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 575
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 576
+"../../../Engine/Content/BasicShapes/Cone.uasset" 577
+"../../../../../../DEMO/Meetup/SteamVR_01/Intermediate/CachedAssetRegistry.bin" 578
+"../../../../../../DEMO/Meetup/SteamVR_01/Content/Level1.umap" 579
+"../../../../../../DEMO/Meetup/SteamVR_01/Content/Particles/P_GPUSprites.uasset" 580
+"../../../../../../DEMO/Meetup/SteamVR_01/Saved/Autosaves/Game/UEDPCLevel1.umap" 581
+"E:/DEMO/Meetup/SteamVR_01/Saved/Cooked/WindowsNoEditor/SteamVR_01/CookedIniVersion.txt" 582
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/9/GSM_753D597996674C67855E3A31377FCDD0_PCD3D_SM5_5__BC5N_NOCCBN_DEV_SL_VRIS_NODB__5BAFDA97B1E4FD5768CA3430DC001C6CA62FEB40.udd" 583
+"../../../Engine/Config/HTML5/HTML5Engine.ini" 584
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 585
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 586
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 587
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 588
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 589
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 590
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 591
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 592
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 593
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 594
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 595
+"../../../../../../DEMO/Meetup/SteamVR_01/Content/VR_GameMode.uasset" 596
+"../../../../../../DEMO/Meetup/SteamVR_01/Content/VR_Pawn.uasset" 597
+"../../../../../../DEMO/Meetup/SteamVR_01/Content/StaticMeshes/Paddle.uasset" 598
+"../../../../../../DEMO/Meetup/SteamVR_01/Content/Materials/Copper.uasset" 599
+"../../../../../../DEMO/Meetup/SteamVR_01/Content/Materials/Gold.uasset" 600
+"../../../../../../DEMO/Meetup/SteamVR_01/Content/StaticMeshes/vive_vr.uasset" 601
+"../../../../../../DEMO/Meetup/SteamVR_01/Content/Materials/Felt.uasset" 602
+"../../../../../../DEMO/Meetup/SteamVR_01/Content/Materials/Glow-Blue.uasset" 603
+"../../../../../../DEMO/Meetup/SteamVR_01/Content/Materials/Glow-Red.uasset" 604
+"../../../../../../DEMO/Meetup/SteamVR_01/Content/Materials/Steel-Mirror.uasset" 605
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 606
+"../../../../../../DEMO/Meetup/SteamVR_01/Content/Particles/MAT_BasicParticle.uasset" 607
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 608
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 609
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/7/MATSM_4F0644619F9C48FF91E0D494C95EB050_PCD3D_SM5_5__BC5N_NOCCBN_DEV_SL_VRIS_NO__037240B79A97C00FD33D83793199DFD3FE8C6867.udd" 610
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/8/MATSM_4F0644619F9C48FF91E0D494C95EB050_PCD3D_SM4_5__BC5N_NOCCBN_DEV_SL_NODBUF___E929177268C50A8610B88438C5E81300B003CF5A.udd" 611
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/1/MATSM_4F0644619F9C48FF91E0D494C95EB050_PCD3D_SM5_5__BC5N_NOCCBN_DEV_SL_VRIS_NO__0B4B6D1E27B1D8028BA9DD047D82FA036574E36F.udd" 612
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/0/MATSM_4F0644619F9C48FF91E0D494C95EB050_PCD3D_SM4_5__BC5N_NOCCBN_DEV_SL_NODBUF___4FC0DA92508EDDAAEED4AE70E061112F9A20A2DC.udd" 613
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/6/MATSM_4F0644619F9C48FF91E0D494C95EB050_PCD3D_SM5_5__BC5N_NOCCBN_DEV_SL_VRIS_NO__41C8CBBA8F2888C86402C806CE76F0A5D3D640AE.udd" 614
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/6/MATSM_4F0644619F9C48FF91E0D494C95EB050_PCD3D_SM4_5__BC5N_NOCCBN_DEV_SL_NODBUF___8ADB4115E80C37890929BEE8D9CDB8B7ABCECBAD.udd" 615
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/8/MATSM_4F0644619F9C48FF91E0D494C95EB050_PCD3D_SM5_5__BC5N_NOCCBN_DEV_SL_VRIS_NO__530BD36453F95CCA9455A53606F016D0B5A5227D.udd" 616
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/5/MATSM_4F0644619F9C48FF91E0D494C95EB050_PCD3D_SM4_5__BC5N_NOCCBN_DEV_SL_NODBUF___A8F2725B06E41A70CD5AB314049A9F9B9977C545.udd" 617
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/8/STATICMESH_6F4494992CB61A37E4B1403C6156E6A_8C68575CEF434CA8A9E1DA4AED8A47BB_E3__4489CED96AC097E9E6CBB1F343C37B0E1B429F81.udd" 618
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/8/PHYSX_F4A1A1C74D09407EB40C82094A33556D_PHYSXPC_A317AF774310AC54B500B6899AF5CB3__55919F5B5D07AD8BA3B9B3641071957C83983549.udd" 619
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/9/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_A317AF774310AC54B__522C0E67A379058DBE46D9BFB1C613AD564E9F90.udd" 620
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/5/STATICMESH_6F4494992CB61A37E4B1403C6156E6A_8C68575CEF434CA8A9E1DA4AED8A47BB_10__16AEB0C32DCEF530A41892CA7FB0F407D6E85E82.udd" 621
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/1/PHYSX_F4A1A1C74D09407EB40C82094A33556D_PHYSXPC_0703BDEE4E48D541F5F545B4F2F233F__DFADAB60AC1D98A8664278EE14D8ABDDBF610EBB.udd" 622
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/2/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_0703BDEE4E48D541F__1769DE8D4FA2FD057C3CA18AFD8C3F72F413B70E.udd" 623
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/9/MATSM_4F0644619F9C48FF91E0D494C95EB050_PCD3D_SM5_5__BC5N_NOCCBN_DEV_SL_VRIS_NO__65098690B77BC961BED9D189C64B0B4C9AD8D8FF.udd" 624
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/0/MATSM_4F0644619F9C48FF91E0D494C95EB050_PCD3D_SM4_5__BC5N_NOCCBN_DEV_SL_NODBUF___5AC923DBC5FE3CC17F539C745025B8E5B363778A.udd" 625
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/9/MATSM_4F0644619F9C48FF91E0D494C95EB050_PCD3D_SM5_5__BC5N_NOCCBN_DEV_SL_VRIS_NO__60DFB377E076586A107B4F1E8FCC494FC9E5BF6E.udd" 626
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/6/MATSM_4F0644619F9C48FF91E0D494C95EB050_PCD3D_SM4_5__BC5N_NOCCBN_DEV_SL_NODBUF___1CEF45C5C008F24665C055256287AAFCFD6AA6AC.udd" 627
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/6/MATSM_4F0644619F9C48FF91E0D494C95EB050_PCD3D_SM5_5__BC5N_NOCCBN_DEV_SL_VRIS_NO__508B05513CC304012B935DC1BFF8859F54F23F57.udd" 628
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/6/MATSM_4F0644619F9C48FF91E0D494C95EB050_PCD3D_SM5_5__BC5N_NOCCBN_DEV_SL_VRIS_NO__EFD94724AACBDDDB3EBB0DC2B58B733A552A7347.udd" 629
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/2/MATSM_4F0644619F9C48FF91E0D494C95EB050_PCD3D_SM4_5__BC5N_NOCCBN_DEV_SL_NODBUF___FC43DCB09CE7AED77CE203FA869A645FC6750E95.udd" 630
+"../../../Engine/Content/Maps/Entry.umap" 631
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 632
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 633
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 634
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/7/MATSM_4F0644619F9C48FF91E0D494C95EB050_PCD3D_SM5_5__BC5N_NOCCBN_DEV_SL_VRIS_NO__429DE36F188ED7B0EDCB9AC0BF1087594752F3C9.udd" 635
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 636
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 637
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/8/MATSM_4F0644619F9C48FF91E0D494C95EB050_PCD3D_SM5_5__BC5N_NOCCBN_DEV_SL_VRIS_NO__26D7BFE57A9CA690C0F6D50B5DF8079DFB088450.udd" 638
+"../../../Engine/Content/EditorMaterials/PhAT_JointLimitMaterial.uasset" 639
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/0/MATSM_4F0644619F9C48FF91E0D494C95EB050_PCD3D_SM5_5__BC5N_NOCCBN_DEV_SL_VRIS_NO__A2F722CF6A4E5E20B08249B99024919F20EBF55B.udd" 640
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 641
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 642
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/5/MATSM_4F0644619F9C48FF91E0D494C95EB050_PCD3D_SM5_5__BC5N_NOCCBN_DEV_SL_VRIS_NO__0058E5185D66A49BF7768D3E2D531933136B542E.udd" 643
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 644
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/5/MATSM_4F0644619F9C48FF91E0D494C95EB050_PCD3D_SM5_5__BC5N_NOCCBN_DEV_SL_VRIS_NO__36EBA529033E4B7EC4182276F60A0AEA11156D51.udd" 645
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 646
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 647
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 648
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 649
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 650
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 651
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 652
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/7/MATSM_4F0644619F9C48FF91E0D494C95EB050_PCD3D_SM5_5__BC5N_NOCCBN_DEV_SL_VRIS_NO__5DD18C45CEF229D53F5DA0EC15B04137F87ED6A0.udd" 653
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/0/MATSM_4F0644619F9C48FF91E0D494C95EB050_PCD3D_SM5_5__BC5N_NOCCBN_DEV_SL_VRIS_NO__37FFA0A5F7CEAF5CC80CE86EC3E0B140B3287F27.udd" 654
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/3/MATSM_4F0644619F9C48FF91E0D494C95EB050_PCD3D_SM5_5__BC5N_NOCCBN_DEV_SL_VRIS_NO__1F46885566E840EC2E4D52BB22F7A321C017B12A.udd" 655
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/3/MATSM_4F0644619F9C48FF91E0D494C95EB050_PCD3D_SM5_5__BC5N_NOCCBN_DEV_SL_VRIS_NO__5E4AF5702BC51E89F4D12EC95084FB7258823311.udd" 656
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/0/MATSM_4F0644619F9C48FF91E0D494C95EB050_PCD3D_SM5_5__BC5N_NOCCBN_DEV_SL_VRIS_NO__90FE7535120CA6919B7DE952693979A2685AAC5C.udd" 657
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 658
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 659
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 660
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 661
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 662
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 663
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 664
+"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 665
+"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 666
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 667
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 668
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset" 669
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 670
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 671
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 672
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 673
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 674
+"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 675
+"../../../Engine/Content/Tutorial/SubEditors/DestructibleMeshEditorTutorial.uasset" 676
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Tutorial_DM.uasset" 677
+"../../../Engine/Content/EditorMeshes/EditorCube.uasset" 678
+"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 679
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 680
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/8/MATSM_4F0644619F9C48FF91E0D494C95EB050_PCD3D_SM5_5__BC5N_NOCCBN_DEV_SL_VRIS_NO__991B4017E520B456ECBECA4EB7A1D078AA755969.udd" 681
+"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 682
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 683
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 684
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 685
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 686
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/2/MATSM_4F0644619F9C48FF91E0D494C95EB050_PCD3D_SM5_5__BC5N_NOCCBN_DEV_SL_VRIS_NO__DBCA96F108AA49CEE6520DB18340D69640DE9E50.udd" 687
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkThrough.uasset" 688
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/NewBlendSpace1D.uasset" 689
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Idle.uasset" 690
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset" 691
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Walk_Fwd.uasset" 692
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset" 693
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset" 694
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_PhysicsAsset.uasset" 695
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/0/MATSM_4F0644619F9C48FF91E0D494C95EB050_PCD3D_SM5_5__BC5N_NOCCBN_DEV_SL_VRIS_NO__897F11A98A9CB4E1AEF20205E2DCA8512D496CC8.udd" 696
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 697
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.uasset" 698
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialCharacter.uasset" 699
+"../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 700
+"../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset" 701
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 702
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 703
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 704
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 705
+"../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset" 706
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 707
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 708
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 709
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/9/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_2303080240B4FBC995EC43ABAA9A8C6__FF67176A68B6CAB831A7F4C31766F94B348FF9C3.udd" 710
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/8/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_5216118D4EACC7D4064ADCBA89F7720__4776B6E2E6502A15BA73B7522CDBB3F8E50002AD.udd" 711
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_09053A42486F57C671A2B9B0F6272__7081BA232D94CF58FB5C793F5EA542CA762D0E8E.udd" 712
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B07BB94C4024838454154883B7876__59CB28ED8FB21C25306FDB3AEC6027252B011A56.udd" 713
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/1/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_5216118D4EACC7D4064ADCBA89F7720__66F5A912C12ECCBFC7828C141D8C68C1A07C0A15.udd" 714
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C45F0F7D439FAD52041B1EBC5A8A1__9908241BD20DF14A6AE05F8E6CA9BBBE24B07AB6.udd" 715
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_FDD461EC4EDF5F99C659709B7A42E__FBBDD204E59CC3E3C9749161169905E65779DA9A.udd" 716
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/4/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_565E0359430950FA252A118AF8521636___AFD2E7B6C000DBB57C3C2251719C132A8B58702E.udd" 717
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_FDD461EC4EDF5F99C659709B7A42E__A862D430A5BD3851806098886F46A0DB4C02712D.udd" 718
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/0/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_565E0359430950FA252A118AF8521636___018F4075D3397499A38D84DACDCE819C495D7211.udd" 719
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/2/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_565E0359430950FA252A118AF8521636___1978717988CE205C32B2214CC1D518693DF7C4D6.udd" 720
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_FDD461EC4EDF5F99C659709B7A42E__5D8E67CBA0F04E790BD64833DFE9997DDB1D33F0.udd" 721
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_FDD461EC4EDF5F99C659709B7A42E__D3B9066E064FF8485C582FA787D958A7AE111964.udd" 722
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B21C1AFF42ACD5ADC8C382B3A090A__DD3D508F2B287118D83B2811676DC879755E7F88.udd" 723
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B21C1AFF42ACD5ADC8C382B3A090A__F781C0B0C2693BF17FB27AC24C523D4AD3350E86.udd" 724
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B21C1AFF42ACD5ADC8C382B3A090A__EC69846C8DD084F28BBD11A348C2B577D88F8262.udd" 725
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B21C1AFF42ACD5ADC8C382B3A090A__1423AB5FD021F7D2A063652CBFD2D5D24334CF57.udd" 726
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B21C1AFF42ACD5ADC8C382B3A090A__1AC1C47CE01BB3791E07B3F37B4DEBBD29C103E3.udd" 727
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/3/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_15564967414184874DBCB89C44D5959C__BA34306FE8A99B5C640F036EF7E052585535A66C.udd" 728
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/3/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_15564967414184874DBCB89C44D5959C__02B54665C520D91F5F701748C4780F8A6005FD33.udd" 729
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/6/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_B19E8D43472CA8B277E8CCA8993996A__878CA4B0813C95120A256C74CF1AC98FA54BEF64.udd" 730
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/9/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_056A03A5436F9F05D7AA329082E3874__52EE13A1FAED255C5BAD5F0F0CD6CB5732F1FD7D.udd" 731
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_55809E694EE7DB292235CC917A5C5__581C558B12F92DA8D70F4F628DF65CDCF5AECBC8.udd" 732
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_7BC0404946D77A8C093A10AE0677E__AFBD176B0024CACEDD89C5FD04DBA1FA2128794D.udd" 733
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_55809E694EE7DB292235CC917A5C5__0DEE01AFDCD63EDCE050864E9B2048808D3D7B82.udd" 734
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_7BC0404946D77A8C093A10AE0677E__A1D8A03E2549AA9BBB14D25D58C22DB5DF625B64.udd" 735
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_55809E694EE7DB292235CC917A5C5__60C01A3D2DE5A93AFF7EF8C568AEB262FC04DA19.udd" 736
+"..\..\..\Engine\Content\Internationalization\icudt53l\zoneinfo64.res" 737
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/3/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_C13BD2BB45C48968C13E6F8322E0CF1A_0__A856BDB1C74F641C3E5A497386077ABA922667E4.udd" 738
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/6/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_D0FECEC94BB5E3DA0C23C4AB41A933F__8F9DB62806B4C14D8538F690E769D615317FCDE6.udd" 739
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/3/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_C6F046E346DE53E9987E70930FC6D31__2BC58C7103301983DEFA01C3C389866FD917AABF.udd" 740
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/7/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_D0FECEC94BB5E3DA0C23C4AB41A933F__0192091683E28B4FA9F5BFB80F26E676346450A0.udd" 741
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_1EC0B18B47E75959952584B5D8D9E__61476F8F01150CA0879C3ACC7FFBE61559C32272.udd" 742
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_3D7D3365419CADDBF5E531B12CF16__2D210BC742A9A071850B8696B3B5F3BFB91FB2AC.udd" 743
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_3CAC1F094FB87A98E53D7D8A24643__0ADB52FC1C87E64467B7229C368AA2DCF86DFE5B.udd" 744
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/9/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_D0FECEC94BB5E3DA0C23C4AB41A933F__0FAFFDBB32ED72F358A7388C9AB6FE8088A36D2F.udd" 745
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_33CBEF834D7D60ED9D58E5940B7B2__09AEB2AC23FA45423CA92F569A7187888552681E.udd" 746
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_CBF5B13548AB62E6A9ADA387D1FEB__4A9FB5D124DCA445BD27564DB3B0A06172F0D4A8.udd" 747
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E38B68B34F759D23C6E5CD925E4D1__24693E2BCBEB7164B3FBD7F012A1856992CF6BAC.udd" 748
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E55F8197440DD2855E7F4D9816C88__4B98C29CAB8DC3858D2FD1924BF032569B0064F4.udd" 749
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_A6C0C4B74D09BE1A7E2C31B7CA775__8240F4F76015DBCE4BBDAE52B1233C28F14FBA6D.udd" 750
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_7D98C11E41884B4A67A497A07B028__D056AE9858611F8551086C386BCEE9909E137C18.udd" 751
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_74A80EB64112E46096AE17A812C2E__E433C23A316779D3C7021F55A16B60C3D3A3BD33.udd" 752
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_264ABDF14257816FFA9477A6F6A19__303B98F4E304FB93C820CBC3D56044C65F0B73B1.udd" 753
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_025102BB43BBEAC3F075788919382__7E08700D2950C4E78762A07B2EC79F112D9FC152.udd" 754
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C55865344733442FBAD7D29E0B657__FFD7EA1B74583C7B5E036A22683727F92263078B.udd" 755
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_6A6029554EC6CEDCFFC9E0836D465__15055B7217D64E5B0C68FF0F1248D0C8B2998C2C.udd" 756
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/4/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_C349D2FA2A30FC1134357D3272F2DC90__9CAE132C99390C163EA7822A81369E3926FE8834.udd" 757
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_FCC2E3624ECEAC189015CEAD2B2D9__1940100ED7FE7DC3EED6E16F9F134F6E81409306.udd" 758
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_FCC2E3624ECEAC189015CEAD2B2D9__1A050F21870E8B7FB2544A1F129FE5557DA8D861.udd" 759
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_FCC2E3624ECEAC189015CEAD2B2D9__B9BDCC7378EB45072EBCB55FFFB0C4A48308D7E5.udd" 760
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_FCC2E3624ECEAC189015CEAD2B2D9__766BBFDFA27238FECA08A5CC5742B7CF74DCCCC9.udd" 761
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/1/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_001F44A84F16871A324A52A5F4204698_0__65DAE9540D527BA6F6CF3B820941BAF10C7A00D9.udd" 762
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C39FA6E1430A3372261C0A90A569A__EFCB5491809581847D2C496FF3482BCB39BA6C7A.udd" 763
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C39FA6E1430A3372261C0A90A569A__F6BB0973D8DBFFF61AC847513D5420B02DEBFB2C.udd" 764
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C39FA6E1430A3372261C0A90A569A__6D715C861504BCA257A408C83FD53A9315032A77.udd" 765
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C39FA6E1430A3372261C0A90A569A__DBBCB0922033BC8A107E20CDFF09806D291708AE.udd" 766
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C39FA6E1430A3372261C0A90A569A__D0FFE40F336450DC835BD3BEBA2A4599CC6611B8.udd" 767
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/6/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_2140CA5B4637C285519D6D91BA9973B__42CF69DB21C149F8C8271914F4141A7EA80E9870.udd" 768
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_584A79B6465982423406428F0D776__7E8A800BE546D16101C11CDEE1840BBEF21B464F.udd" 769
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_584A79B6465982423406428F0D776__61F5CC0CCE5D9CD95B83AA1CB53B0B5FE41AC847.udd" 770
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_5075C5404C9665C57F66B49F2C5D8__7BA33EC7187D56264DE83DF9D074BF06C46EB7D8.udd" 771
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_5075C5404C9665C57F66B49F2C5D8__23B11D0C14DC5B9C0C0D81B28ED055E07DD24DBD.udd" 772
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_5075C5404C9665C57F66B49F2C5D8__87E57DDE6EEE045F0A3F4444DC7E5DDBEB9DA85E.udd" 773
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_5075C5404C9665C57F66B49F2C5D8__8A675B9A7E86ED55344E993623F4FE067048B76B.udd" 774
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/6/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_1C2B54F74EBDC3C23B1A0B85D55D159C_0__2E2A404ABA0B1D38FA0F8DFA476C0ECE606A40A4.udd" 775
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/9/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_52C2D2044F80407BBABA8CB2BA04F4F__FDB37FDECA0F67A24577A4436B3C2D9D715FD7D7.udd" 776
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/2/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_A28EC0C4486158C85466808599E49A4__1FF86D5F10DF5DA41E6C385F79D34A8F73D47BF5.udd" 777
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B1F6A23D46761DA1743FBE984F9E8__A7029B9659C79ED952199638E34300F568BEC77C.udd" 778
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/6/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_9B0249994A9B1B14D96CD7BB7A90FB3__2A18DC3AB953CB11B5A51E842996745AAD44A376.udd" 779
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_95D01D314436990422EF30A4E4FA2__A0EA230C82B6516917DBF6AD6916F36C2FF78A30.udd" 780
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_95D01D314436990422EF30A4E4FA2__E2300CE8A9419ECFFDE837D77935F89934CEF43F.udd" 781
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_448D83D64D92F14E184FE88142360__96C307B0AE07838F12FB69110D8819F1DE4DDA98.udd" 782
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/7/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_017E72834BC6A481B9D2E7B57B15158__033B40A7CD6EDB2A8C5BEC6C104D9FF39FAE99B1.udd" 783
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_448D83D64D92F14E184FE88142360__8C11E31833198E6582F84D52D5F1ACE70473B75A.udd" 784
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_448D83D64D92F14E184FE88142360__6C42748001665E34E035A67D1A97970665B2A2DF.udd" 785
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/0/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_017E72834BC6A481B9D2E7B57B15158__659A98AE69E93C35984CE59DFC41B9ADDA0893E2.udd" 786
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_52640BB9425F976C53CF3FA787E7A__A00DDDDDBF6B391C42CE5DF0F1CB9F5FE88EFD80.udd" 787
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_52640BB9425F976C53CF3FA787E7A__FA0745CFAD35B41F70CEACF87C824D99F6653BC8.udd" 788
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_52640BB9425F976C53CF3FA787E7A__8F9207BE8FFC8694E1E8C08320ADF4FD519E5F36.udd" 789
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_448D83D64D92F14E184FE88142360__77CABBFAE8EC0B2957FAC9B994429DCD32275870.udd" 790
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_52640BB9425F976C53CF3FA787E7A__7051E7E88CD36D27158642FBAF42CDC035D428A7.udd" 791
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_448D83D64D92F14E184FE88142360__66D7D14BA454FBF72711D62BA47235B802137FEB.udd" 792
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_448D83D64D92F14E184FE88142360__97F0985DFE2D299F60A1729988F9B14FC86C29DD.udd" 793
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/8/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_017E72834BC6A481B9D2E7B57B15158__7BCB945C6A82D205AE96C8F204E5B72B3255112D.udd" 794
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/9/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_017E72834BC6A481B9D2E7B57B15158__FDD785012476B36FBFB9EFEFD11F39A3CBC35FE3.udd" 795
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/6/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_017E72834BC6A481B9D2E7B57B15158__9B510A5E2DE9B6D05B20B875A1ABB01D63B60746.udd" 796
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_017E72834BC6A481B9D2E7B57B15158__6D829488C3EF91BC7A1CBE9F2A8EEB47433609D9.udd" 797
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/1/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_122003924E39A572EF68B5BAC8A94B51___9FBDDF4EB276B8BA831B407333B50058434512F0.udd" 798
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_6A00F1654C244F95E8B15E9A15BE5__9F6FE039175A88CA1E577272AF00572DA13D0688.udd" 799
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/3/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_122003924E39A572EF68B5BAC8A94B51___3D141379DF2D9F7B91E53461EF61C5C490A5CA9E.udd" 800
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/8/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_122003924E39A572EF68B5BAC8A94B51___037856683106E4241EAD8BEE93431A83B08125FA.udd" 801
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/0/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_122003924E39A572EF68B5BAC8A94B51___38C5FF9F221EECA031284DB671BE97419303D3FF.udd" 802
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/2/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_122003924E39A572EF68B5BAC8A94B51___583274C5548641E4D316B5211CA80ED9EBB46352.udd" 803
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/2/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_300F91D746B84377794E1FA74622CC3__2073FDC26C5DBF30C2FB036D844C862F26A2F643.udd" 804
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/3/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_300F91D746B84377794E1FA74622CC3__215679D37B32B731D166A2C5BC282D079163F18C.udd" 805
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/2/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_300F91D746B84377794E1FA74622CC3__9F605741DC6FBB382FA6D1D4D44DE97500E66E80.udd" 806
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/9/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_300F91D746B84377794E1FA74622CC3__D37F66297C91D3F89DE52480ABFD1F6D2C9E8415.udd" 807
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/2/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_EFCCE016429008D9D6575CB3A2DF598__39BAC2122003850C17C596FDCC86C3D212DE5A4A.udd" 808
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/9/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_EFCCE016429008D9D6575CB3A2DF598__16171D0A279E1163332B683EBEBC3BC1F3E98016.udd" 809
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/6/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_EFCCE016429008D9D6575CB3A2DF598__C4821DF4BD82BD0E3E860F170714F74BB99AF852.udd" 810
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/6/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_EFCCE016429008D9D6575CB3A2DF598__77E8DEFEC5BF83A9B1B48AF3C7ACE93859F616D2.udd" 811
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_A5E28525480F8268BF36ABA7EBDFC__BBE6AC1ADE65EE988161E1412C57E3F88174E6E2.udd" 812
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_A5E28525480F8268BF36ABA7EBDFC__00BD96E3D4B0209194F30AC4FF54B8401CAFEB15.udd" 813
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_A5E28525480F8268BF36ABA7EBDFC__D4A89CA09F54473C731C25FAB8E0491229BB809A.udd" 814
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_A5E28525480F8268BF36ABA7EBDFC__D15C98456623C6C3BCC0ECDFC5974B6BDD0D448E.udd" 815
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/8/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_72107D3F4110EAEF3BE5D5841EFE141__EBFABFC50FA425319A0ADC765708F5FF2CC0430C.udd" 816
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/4/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_4963A1D64E358284C2A151B90C2ACE2__0877A119ECF8D290E51A42A8C457FAB4635C4CE5.udd" 817
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/7/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_70FBE2144E9E03B3586828844F8F9E3__AAD3CE188F72F692D5AA9967E2CA3DEDA43A777F.udd" 818
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/9/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_8F68DA7846EE5B1FF2DDDC9433F817A__9FDFF1F38E2A447698C25ADA8828C9B7E78C264B.udd" 819
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/3/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_D07216FC40952418CFE0E28778D79B2__89B7DC46CA82953BBE8057421208BB96E5C619A9.udd" 820
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/7/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_0334AFB24D2E5AA9081F9BAFF9F95EE__ED95787AC12E31E95E769FBE5E7BFB4D77C53CB8.udd" 821
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_8A9D9D2A48FA9339997AE79343CFD87__6E53AEB85A1CEED333B46798B5D732E0DB5F7973.udd" 822
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/9/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_4957CBA74161F467DABFBE98D2CA62A__E14509477DFD3EB2EB2DB6FA164EBF60B21B7043.udd" 823
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/6/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_A1C52E6A43A1109B0752B4B5980EA23D__1505695EACEF450B2360F157025789324808F0DA.udd" 824
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/5/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_A1C52E6A43A1109B0752B4B5980EA23D__13B1A9B7BAD5E041E94F1297BAC2994831BCC747.udd" 825
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/3/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_A1C52E6A43A1109B0752B4B5980EA23D__19C07A42E8FFF97ABC69C34699A576D945BD4355.udd" 826
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/7/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_A1C52E6A43A1109B0752B4B5980EA23D__47F65D18336D505959807819EE470740C5B0779E.udd" 827
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_3648AA2A4A658DE90371B081D8DC7__79EA3066C05F876B5B83AAF3F2792679C0B0BD18.udd" 828
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_91A201FE4781221C42DEDE91696E4__389E3E4629443564C58A30B0EE957E4A834EE893.udd" 829
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_3648AA2A4A658DE90371B081D8DC7__A0C5FAA70C9D1F7FBDCF20FBA9C2B95CACCFBAC6.udd" 830
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_3648AA2A4A658DE90371B081D8DC7__7E6587768D291C2DD39DBF683F7B093F6EEEA5B0.udd" 831
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_91A201FE4781221C42DEDE91696E4__3DBDECE29606A698D5C4A0999706EDB1D150A05A.udd" 832
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_91A201FE4781221C42DEDE91696E4__728CB71FAFD2E4C073DBD859949037CB00598117.udd" 833
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_3648AA2A4A658DE90371B081D8DC7__9209AC813937D05A33648E084F51F5CDEDFAA6F7.udd" 834
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_91A201FE4781221C42DEDE91696E4__10B419121147129CD66800CC97EDE0AD2FF2BC3B.udd" 835
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_3648AA2A4A658DE90371B081D8DC7__9024C3FF7AA8FAC8E5F28E06510B42EAEFCD0F19.udd" 836
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/9/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_BCE8FE5741A00FEBD2B9A5B20374AA1__4410B99AB8D8E546A8817042EF75F318D48732CD.udd" 837
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 838
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_80A9E59646847B4846ED6DAF42DFE__5B70D57A8D534632E772B83FEBF7B027FF5B8388.udd" 839
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_80A9E59646847B4846ED6DAF42DFE__308ACB6CF9A852BC5B9B8DC8909BB87E9FB70BD3.udd" 840
+"../../../../../../DEMO/Meetup/SteamVR_01/Content/Materials/Steel.uasset" 841
+"../../../../../../DEMO/Meetup/SteamVR_01/Content/Materials/Glow-Blue2.uasset" 842
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/8/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_BD2910D742B4B4778E3374B97767851__F910B2E0445BFA5900D0CD3EC9C80B5608789FD4.udd" 843
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 844
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_5FF2868842E6DED8A4C0CB8217190__C44A22A45D6E1E0CCC23391DA16ECB5C18F2849C.udd" 845
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_CF42979D4C189447D5D7398920532__FA29B1CED598FE8B243F816407EA6167D0320F6B.udd" 846
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_0826AF7846D396A549BF7799E7C45__A8C14F18E7E9A1A4263B5C5028300A2EDB52C0CC.udd" 847
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/6/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_95FE44BC4C3AF942427110AA6A3EE7FD__3BF779AAA01A235AD3B2A1E8DC9D366F2AF6BA79.udd" 848
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/2/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_AEE890C24D76668D7FC6C18EAC3EE8C2__180FBC1BE4B11B218B12B7F09E88F9D93D83EBED.udd" 849
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_0826AF7846D396A549BF7799E7C45__8ADA033149FC574A58919A3192C37EBB99415E75.udd" 850
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_0826AF7846D396A549BF7799E7C45__6A64E03EE1DB0A8876A1BA5420E6B4C294B61BC8.udd" 851
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/7/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_60A352CF43B9EDDA32242EBD348626C__6236DDF59DF4D12389D6AFF8BB7D1B1CFF62AB8C.udd" 852
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/6/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_FEB885274856E350932B72921DDDDFD__5F0F36A6D6499DB500E06D9B75B9A0565206D537.udd" 853
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/2/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_60A352CF43B9EDDA32242EBD348626C__0C8996B189BBA92BF73AB02547363578140F4B49.udd" 854
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/1/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_AEE890C24D76668D7FC6C18EAC3EE8C2__F82D9ADAA16895507DF87F5B973533D8D78E18AF.udd" 855
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/9/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_AEE890C24D76668D7FC6C18EAC3EE8C2__B2A2D6A5E89F2F114F64EA2F640572F12B346643.udd" 856
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/7/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_60A352CF43B9EDDA32242EBD348626C__B53D784E9F2D31EA888250F37247E803D6942EF6.udd" 857
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 858
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 859
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 860
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C9D41DBE4C754F8B430E7DBADCD48__12CC74A7FD084DC5C96ADD95B3C1B5D07F3EA75C.udd" 861
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C9D41DBE4C754F8B430E7DBADCD48__B606B2F565A5A77F7F06349C41A955A7AAC7CE53.udd" 862
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C9D41DBE4C754F8B430E7DBADCD48__449C61C38D35E6152D40F0C16F230ECC2E23BCF8.udd" 863
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/0/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_56BEDB7D4D934FA4B20DE6BE61E6E95__77AE1EAAB7B4F25434565688B44A8EF41377A4B5.udd" 864
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/7/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_9E839E0E4933277AAB67FB869C14F9A__6C60276B70B9624A2973ABC8BB661D66EB844E8D.udd" 865
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/1/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_56BEDB7D4D934FA4B20DE6BE61E6E95__116C03F444383775DBA6ED6643F0EF295E9E964E.udd" 866
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/3/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_56BEDB7D4D934FA4B20DE6BE61E6E95__C4334361B14AE732A1EFFB7B31B471F36E826B40.udd" 867
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_9E839E0E4933277AAB67FB869C14F9A__7BC1922C2E345D1ABB0D1BC46468CD9FFCA2B7A5.udd" 868
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/7/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_9E839E0E4933277AAB67FB869C14F9A__E5BDE673A03B9A061D3CB540CC12BEAC0CAC6739.udd" 869
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 870
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_119D9D384F916FB5612DEB85B0124__7741C2B795775BFA3104662CBC48EFE5FD9B7782.udd" 871
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_119D9D384F916FB5612DEB85B0124__CE9E8C2753F09B87FABEC48764BCDF5C0418506D.udd" 872
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_119D9D384F916FB5612DEB85B0124__B6179C1D92F62425940B03B442B5BB2F36D1378A.udd" 873
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_119D9D384F916FB5612DEB85B0124__B5858B18ACEB8D7AEB6A29EACA75015ECEE0FAB6.udd" 874
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 875
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_3F3B1DD44FE006226A690596DBDDE__A8F0AA4345DA63B02C5E76E8CDD15A76D906C9DE.udd" 876
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_3F3B1DD44FE006226A690596DBDDE__124F7D8D2718E263E1691CDD9F88C4222659C194.udd" 877
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 878
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/6/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_A4535AA24BB699361857049E2A844B2__33DC436FC8699D1B1039C88C7BD1A5C66D1E258A.udd" 879
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 880
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C49FDA8C4EFE04B87EBA5CB5A57D2__068B523AE52B2D61E14EDFB3764754121E26AA52.udd" 881
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 882
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 883
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2E1EE3B14D43A62B84881B8F5AAD2__BB99884E9A5449D24496CD2D2CB314E5330C09E0.udd" 884
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 885
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/1/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_9F5B2DF1453DB1272733529F5E95869__4EB2A0ED4F34B3CC6C624508CD3BBE64BBA526A0.udd" 886
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 887
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F562DDF94D8D885AE92078A9DD770__536E815204A7A55A1C3DC28912842A9998DC951D.udd" 888
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F562DDF94D8D885AE92078A9DD770__E711B9F5E3FE93BF616817FF2150AFFDB1723C2E.udd" 889
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F562DDF94D8D885AE92078A9DD770__A885F07B0952CD16CE13DADC3D75FAA72804CE9A.udd" 890
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 891
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_8EDAF7A54E378800FEB2178634331__D89B4B727EE1E1D9A987D925955029B933591292.udd" 892
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 893
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C200B7694C3FE53EBCE97592F5F41__DD39719A926D99A62CA71ADAF4DFF27A49AEF98C.udd" 894
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 895
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_7BBBF743419EE004ACC16E9959BCC__756112131578C37DFF9953878E2BB3763ED27608.udd" 896
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 897
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_9F8FBEF84A1997E30FD384955E3D8__BD16FC101E1BD76B745E50F5F0797E81521ECE50.udd" 898
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_9F8FBEF84A1997E30FD384955E3D8__DC3244ED1DA22A9DFBF8BB794FFE6F9D436D1D74.udd" 899
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_9F8FBEF84A1997E30FD384955E3D8__750E7BCF3B0A4D07B3E732ACF4661AE1B9FDC2C2.udd" 900
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_9F8FBEF84A1997E30FD384955E3D8__0D4C4BDB3A0A12F9E8F8362AC007EA958A932054.udd" 901
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 902
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D5542AFE4886708885DF42B1BE8F6__E8E1BDB0D057288DAED17D58CD776918028D2DCF.udd" 903
+"C:/Users/ronald.delacruz/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D5542AFE4886708885DF42B1BE8F6__E1EF18F9937084B0C07D23A905483B754F02B379.udd" 904
+"../../../../../../DEMO/Meetup/SteamVR_01/Saved/Collections/PackagesRemovedFromChunk0.collection" 905
